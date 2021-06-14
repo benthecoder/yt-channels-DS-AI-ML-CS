@@ -95,6 +95,8 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
+- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
+- [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
 
 ## Podcasts/Talks
 
