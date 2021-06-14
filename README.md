@@ -92,6 +92,7 @@ A comprehensive list of YouTube Channels for Data Science, ML, DL, AI, Computer 
 - [AI Journal](https://www.youtube.com/c/AIJournal)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
+- [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 
 ## Podcasts/Talks
 
