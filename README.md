@@ -2,6 +2,8 @@
 
 A comprehensive list of YouTube Channels for Data Science, ML, DL, AI, Computer Science, programming, software engineering, ect.
 
+Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
+
 ## Programming
 
 - [calvin.c](https://www.youtube.com/c/calvinchancreates)
