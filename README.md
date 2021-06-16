@@ -6,7 +6,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 - [Channels](#channels)
   - [Programming](#programming)
-    - [Software Engineering](#software-engineering)
+  - [Software Engineers](#software-engineers)
   - [Statistics/Math](#statisticsmath)
   - [Python](#python)
   - [R](#r)
@@ -29,8 +29,6 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [CS Dojo](https://www.youtube.com/c/CSDojo/featured)
 - [Devon Crawford](https://www.youtube.com/c/DevonCrawford/featured)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
-- [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Mike Dane](https://www.youtube.com/c/GiraffeAcademy/featured)
 - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
@@ -38,12 +36,14 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
 
-### Software Engineering
+## Software Engineers
 
 - [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
 - [mayuko](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
 - [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
 - [Nick White - YouTube](https://www.youtube.com/c/NickWhite/featured)
+- [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 
 ## Statistics/Math
 
