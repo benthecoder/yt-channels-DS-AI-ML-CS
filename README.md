@@ -116,8 +116,9 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 ## Podcasts/Talks
 
-- [Weights & Biases](https://www.youtube.com/c/WeightsBiases)
 - [Lex Fridman](https://www.youtube.com/user/lexfridman)
+- [bitgrit_official](https://www.youtube.com/channel/UCsEdlkbxrAH93NVGFgGtgdA)
+- [Weights & Biases](https://www.youtube.com/c/WeightsBiases)
 - [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
 - [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg)
 - [Towards Data Science](https://www.youtube.com/c/TowardsDataScience/videos)
