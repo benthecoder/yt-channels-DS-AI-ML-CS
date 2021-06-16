@@ -1,18 +1,17 @@
-# Channels
+# YouTube Channels
 
 A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect.
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
-- [Channels](#channels)
+- [YouTube Channels](#youtube-channels)
   - [Programming](#programming)
   - [Software Engineers](#software-engineers)
   - [Statistics/Math](#statisticsmath)
   - [Python](#python)
   - [R](#r)
-  - [Data Science](#data-science)
+  - [Data Science / Data Analysis](#data-science--data-analysis)
   - [Data Engineering](#data-engineering)
-  - [stocks](#stocks)
   - [ML/AI/DL](#mlaidl)
   - [AI research](#ai-research)
   - [Podcasts/Talks](#podcaststalks)
@@ -65,19 +64,21 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
 
-## Data Science
+## Data Science / Data Analysis
 
-- [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
-- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
-- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
+- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
+- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 - [Import Data](https://www.youtube.com/c/ImportData1/featured)
 - [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
 - [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
 - [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
 - [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
 - [Madhav Thaker](https://www.youtube.com/user/inferno0709)
+- [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
 - [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
+- [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
 - [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
 - [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
 - [Data School](https://www.youtube.com/c/dataschool/featured)
@@ -87,10 +88,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 ## Data Engineering
 
 - [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
-
-## stocks
-
-- [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
+- [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
 
 ## ML/AI/DL
 
