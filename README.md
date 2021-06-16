@@ -34,6 +34,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
+- [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 
 ## Software Engineers
 
