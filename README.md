@@ -1,6 +1,6 @@
 # Channels
 
-A comprehensive list of YouTube Channels for Data Science, ML, DL, AI, Computer Science, programming, software engineering, ect.
+A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect.
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
@@ -35,6 +35,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [ritvikmath](https://www.youtube.com/c/ritvikmath)
 
 ## Python
 
@@ -52,21 +53,22 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 ## Data Science
 
-- [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
-- [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
-- [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
-- [Data School](https://www.youtube.com/c/dataschool/featured)
-- [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
-- [Madhav Thaker](https://www.youtube.com/user/inferno0709)
-- [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
-- [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
-- [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
-- [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
 - [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
 - [Import Data](https://www.youtube.com/c/ImportData1/featured)
+- [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
+- [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
+- [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
+- [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
+- [Madhav Thaker](https://www.youtube.com/user/inferno0709)
+- [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
+- [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
+- [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
+- [Data School](https://www.youtube.com/c/dataschool/featured)
+- [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
+- [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
 
 ## Data Engineering
 
@@ -88,6 +90,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 - [Yacine Mahdid](https://www.youtube.com/c/CodeThisCodeThat/featured)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
+- [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
 
 ## AI research
 
@@ -115,3 +118,4 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [DeepMind](https://www.youtube.com/c/DeepMind/videos)
 - [TensorFlow](https://www.youtube.com/c/TensorFlow/featured)
 - [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/featured)
+- [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
