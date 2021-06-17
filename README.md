@@ -19,10 +19,9 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 ## Programming
 
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 - [calvin.c](https://www.youtube.com/c/calvinchancreates)
 - [Engineer Man](https://www.youtube.com/c/EngineerMan)
-- [Keep On Coding](https://www.youtube.com/c/KeepOnCoding)
-- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 - [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
 - [Ben Awad](https://www.youtube.com/user/99baddawg)
 - [CS Dojo](https://www.youtube.com/c/CSDojo/featured)
@@ -35,13 +34,16 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+- [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+- [maria sitkovets - YouTube](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 
 ## Software Engineers
 
-- [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
+- [Keep On Coding](https://www.youtube.com/c/KeepOnCoding)
+- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
 - [mayuko](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
 - [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
-- [Nick White - YouTube](https://www.youtube.com/c/NickWhite/featured)
+- [Nick White](https://www.youtube.com/c/NickWhite/featured)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 
@@ -50,18 +52,21 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [ritvikmath](https://www.youtube.com/c/ritvikmath)
+- [zedstatistics](https://www.youtube.com/user/zedstatistics)
+- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
 
 ## Python
 
 - [NeuralNine](https://www.youtube.com/c/NeuralNine)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
+- [sentdex](https://www.youtube.com/user/sentdex)
 - [Real Python](https://www.youtube.com/c/realpython/videos)
 - [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
 
 ## R
 
-- [Andrew Couch](https://www.youtube.com/user/asianlongboarder)
 - [David Robinson](https://www.youtube.com/user/safe4democracy)
+- [Andrew Couch](https://www.youtube.com/user/asianlongboarder)
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
 
@@ -90,20 +95,23 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 - [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
 - [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
+- [Data Engineering - YouTube](https://www.youtube.com/c/atozknowledgevideos/featured)
 
 ## ML/AI/DL
 
+- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
+- [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
 - [Mark Saroufim](https://www.youtube.com/user/marksaroufim)
 - [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
 - [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium/featured)
 - [sentdex](https://www.youtube.com/user/sentdex)
-- [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
 - [Jay Alammar](https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ)
-- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 - [Yacine Mahdid](https://www.youtube.com/c/CodeThisCodeThat/featured)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
 - [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
 
 ## AI research
 
@@ -126,6 +134,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [O'Reilly](https://www.youtube.com/oreilly/featured)
 - [Springboard](https://www.youtube.com/c/springboard/featured)
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
+- [Data Futurology - YouTube](https://www.youtube.com/c/datafuturology)
 
 ## Organizations
 
