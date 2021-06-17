@@ -35,7 +35,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
-- [maria sitkovets - YouTube](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
+- [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 
 ## Software Engineers
 
@@ -95,7 +95,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 - [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
 - [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
-- [Data Engineering - YouTube](https://www.youtube.com/c/atozknowledgevideos/featured)
+- [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
 
 ## ML/AI/DL
 
@@ -112,6 +112,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
 - [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
+- [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
 
 ## AI research
 
@@ -134,7 +135,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [O'Reilly](https://www.youtube.com/oreilly/featured)
 - [Springboard](https://www.youtube.com/c/springboard/featured)
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
-- [Data Futurology - YouTube](https://www.youtube.com/c/datafuturology)
+- [Data Futurology](https://www.youtube.com/c/datafuturology)
 
 ## Organizations
 
