@@ -1,4 +1,4 @@
-# YouTube Channels
+# YouTube Channels [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect.
 
