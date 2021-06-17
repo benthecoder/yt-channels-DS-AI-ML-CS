@@ -4,18 +4,17 @@ A comprehensive list of YouTube Channels for Data Science, Machine Learning, Dee
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
-- [YouTube Channels ![Awesome](https://awesome.re)](#youtube-channels-)
-  - [Programming](#programming)
-  - [Software Engineers](#software-engineers)
-  - [Statistics/Math](#statisticsmath)
-  - [Python](#python)
-  - [R](#r)
-  - [Data Science / Data Analysis](#data-science--data-analysis)
-  - [Data Engineering](#data-engineering)
-  - [ML/AI/DL](#mlaidl)
-  - [AI research](#ai-research)
-  - [Podcasts/Talks](#podcaststalks)
-  - [Organizations](#organizations)
+- [Programming](#programming)
+- [Software Engineers](#software-engineers)
+- [Statistics/Math](#statisticsmath)
+- [Python](#python)
+- [R](#r)
+- [Data Science / Data Analysis](#data-science--data-analysis)
+- [Data Engineering](#data-engineering)
+- [ML/AI/DL](#mlaidl)
+- [AI research](#ai-research)
+- [Podcasts/Talks](#podcaststalks)
+- [Organizations](#organizations)
 
 ## Programming
 
