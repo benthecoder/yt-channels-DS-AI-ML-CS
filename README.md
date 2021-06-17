@@ -1,20 +1,23 @@
-# YouTube Channels [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome YouTube Channels
 
-A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. in no particular order.
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
-- [Programming](#programming)
-- [Software Engineers](#software-engineers)
-- [Statistics/Math](#statisticsmath)
-- [Python](#python)
-- [R](#r)
-- [Data Science / Data Analysis](#data-science--data-analysis)
-- [Data Engineering](#data-engineering)
-- [ML/AI/DL](#mlaidl)
-- [AI research](#ai-research)
-- [Podcasts/Talks](#podcaststalks)
-- [Organizations](#organizations)
+- [Awesome YouTube Channels](#awesome-youtube-channels)
+  - [Programming](#programming)
+  - [Software Engineers](#software-engineers)
+  - [Statistics/Math](#statisticsmath)
+  - [Python](#python)
+  - [R](#r)
+  - [Data Science / Data Analysis](#data-science--data-analysis)
+  - [Data Engineering](#data-engineering)
+  - [ML/AI/DL](#mlaidl)
+  - [AI research](#ai-research)
+  - [Podcasts/Talks](#podcaststalks)
+  - [Organizations](#organizations)
 
 ## Programming
 
@@ -34,6 +37,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
+- [The Coding Train - YouTube](https://www.youtube.com/user/shiffman)
 
 ## Software Engineers
 
@@ -46,6 +50,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Nick White](https://www.youtube.com/c/NickWhite/featured)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+- [Coding With Zhia](https://www.youtube.com/user/TwentyFi5ToLife)
 
 ## Statistics/Math
 
@@ -69,6 +74,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Andrew Couch](https://www.youtube.com/user/asianlongboarder)
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
+- [TidyX - YouTube](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
 ## Data Science / Data Analysis
 
@@ -80,12 +86,14 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
 - [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
 - [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
+- [Anastasia K](https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA)
 - [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
 - [Madhav Thaker](https://www.youtube.com/user/inferno0709)
 - [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
 - [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
 - [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
 - [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
+- [dataslice - YouTube](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
 - [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
 - [Data School](https://www.youtube.com/c/dataschool/featured)
 - [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
@@ -96,6 +104,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
 - [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
 - [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
+- [Tuan Vu - YouTube](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
 
 ## ML/AI/DL
 
@@ -106,13 +115,14 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
 - [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium/featured)
-- [sentdex](https://www.youtube.com/user/sentdex)
 - [Jay Alammar](https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ)
 - [Yacine Mahdid](https://www.youtube.com/c/CodeThisCodeThat/featured)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
 - [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
 - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+- [The Independent Code - YouTube](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
+- [Alfredo Canziani - YouTube](https://www.youtube.com/c/AlfredoCanziani/featured)
 
 ## AI research
 
@@ -136,6 +146,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Springboard](https://www.youtube.com/c/springboard/featured)
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
 - [Data Futurology](https://www.youtube.com/c/datafuturology)
+- [DataCamp - YouTube](https://www.youtube.com/c/Datacamp/featured)
 
 ## Organizations
 
@@ -143,3 +154,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [TensorFlow](https://www.youtube.com/c/TensorFlow/featured)
 - [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/featured)
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+- [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
+- [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
+- [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
+- [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
