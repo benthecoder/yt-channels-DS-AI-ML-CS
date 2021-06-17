@@ -4,7 +4,7 @@ A comprehensive list of YouTube Channels for Data Science, Machine Learning, Dee
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
-- [YouTube Channels](#youtube-channels)
+- [YouTube Channels ![Awesome](https://awesome.re)](#youtube-channels-)
   - [Programming](#programming)
   - [Software Engineers](#software-engineers)
   - [Statistics/Math](#statisticsmath)
@@ -20,13 +20,12 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 ## Programming
 
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
-- [calvin.c](https://www.youtube.com/c/calvinchancreates)
-- [Engineer Man](https://www.youtube.com/c/EngineerMan)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
 - [Ben Awad](https://www.youtube.com/user/99baddawg)
 - [CS Dojo](https://www.youtube.com/c/CSDojo/featured)
 - [Devon Crawford](https://www.youtube.com/c/DevonCrawford/featured)
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Mike Dane](https://www.youtube.com/c/GiraffeAcademy/featured)
 - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
@@ -39,6 +38,8 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 ## Software Engineers
 
+- [calvin.c](https://www.youtube.com/c/calvinchancreates)
+- [Engineer Man](https://www.youtube.com/c/EngineerMan)
 - [Keep On Coding](https://www.youtube.com/c/KeepOnCoding)
 - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
 - [mayuko](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
