@@ -59,6 +59,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [ritvikmath](https://www.youtube.com/c/ritvikmath)
 - [zedstatistics](https://www.youtube.com/user/zedstatistics)
 - [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
+- [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
 
 ## Python
 
