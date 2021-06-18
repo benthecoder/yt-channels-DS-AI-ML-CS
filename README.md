@@ -154,6 +154,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Springboard](https://www.youtube.com/c/springboard/featured)
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
 - [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
+- [The Ravit Show](https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured)
 
 ## Organizations
 
