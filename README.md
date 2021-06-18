@@ -124,6 +124,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
 - [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
 - [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
+- [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
 
 ## AI research
 
