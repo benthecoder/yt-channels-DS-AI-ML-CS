@@ -81,6 +81,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
 - [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 - [Import Data](https://www.youtube.com/c/ImportData1/featured)
