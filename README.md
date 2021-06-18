@@ -37,7 +37,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
-- [The Coding Train - YouTube](https://www.youtube.com/user/shiffman)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
 
 ## Software Engineers
 
@@ -75,7 +75,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Andrew Couch](https://www.youtube.com/user/asianlongboarder)
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
-- [TidyX - YouTube](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
+- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
 ## Data Science / Data Analysis
 
@@ -94,7 +94,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
 - [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
 - [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
-- [dataslice - YouTube](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
+- [dataslice](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
 - [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
 - [Data School](https://www.youtube.com/c/dataschool/featured)
 - [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
@@ -105,7 +105,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
 - [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
 - [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
-- [Tuan Vu - YouTube](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
+- [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
 
 ## ML/AI/DL
 
@@ -122,8 +122,8 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
 - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
-- [The Independent Code - YouTube](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
-- [Alfredo Canziani - YouTube](https://www.youtube.com/c/AlfredoCanziani/featured)
+- [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
+- [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
 
 ## AI research
 
@@ -147,7 +147,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Springboard](https://www.youtube.com/c/springboard/featured)
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
 - [Data Futurology](https://www.youtube.com/c/datafuturology)
-- [DataCamp - YouTube](https://www.youtube.com/c/Datacamp/featured)
+- [DataCamp](https://www.youtube.com/c/Datacamp/featured)
 
 ## Organizations
 
@@ -158,4 +158,4 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
 - [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
 - [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
-- [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
+- [PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
