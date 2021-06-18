@@ -109,6 +109,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
 - [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
 - [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
+- [StartDataEngineering](https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ)
 
 ## ML/AI/DL
 
