@@ -125,6 +125,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
 - [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
+- [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
 
 ## AI research
 
