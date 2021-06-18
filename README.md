@@ -130,6 +130,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
 - [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
+- [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
 
 ## AI research
 
