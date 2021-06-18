@@ -38,6 +38,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
 
 ## Software Engineers
 
