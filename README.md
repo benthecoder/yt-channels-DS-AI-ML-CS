@@ -6,6 +6,10 @@ A comprehensive list of YouTube Channels for Data Science, Machine Learning, Dee
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
 
+I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and AI. Check out all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
+
+Interested in more resources? Check out this [compiled lists](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md).
+
 - [Awesome YouTube Channels](#awesome-youtube-channels)
   - [Programming](#programming)
   - [Software Engineers](#software-engineers)
