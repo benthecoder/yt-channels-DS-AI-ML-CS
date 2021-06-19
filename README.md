@@ -2,14 +2,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A comprehensive list of YouTube Channels for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. in no particular order.
+A comprehensive list of YouTube Channels (in no particular order) for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. .
 
-Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on to this list!
+Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
 I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and AI. Check out all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Interested in more resources? Check out this [compiled lists](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md).
 
+Table of Contents
 - [Awesome YouTube Channels](#awesome-youtube-channels)
   - [Programming](#programming)
   - [Software Engineers](#software-engineers)
