@@ -11,6 +11,7 @@ I have a [blog](https://benedictxneo.medium.com/) where I write about Data Scien
 Interested in more resources? Check out this [compiled lists](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md).
 
 Table of Contents
+
 - [Awesome YouTube Channels](#awesome-youtube-channels)
   - [Programming](#programming)
   - [Software Engineers](#software-engineers)
