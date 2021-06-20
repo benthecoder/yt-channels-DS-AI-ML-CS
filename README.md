@@ -49,10 +49,10 @@ Table of Contents
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
-- [Kenny Gunderman - YouTube](https://www.youtube.com/c/KennyGunderman/featured)
-- [Gerard Taylor - YouTube](https://www.youtube.com/user/gerardonfiya/featured)
-- [mCoding - YouTube](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
-- [Derek Banas - YouTube](https://www.youtube.com/c/derekbanas/featured)
+- [Kenny Gunderman](https://www.youtube.com/c/KennyGunderman/featured)
+- [Gerard Taylor](https://www.youtube.com/user/gerardonfiya/featured)
+- [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
+- [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
 
 ## Software Engineers
 
@@ -66,7 +66,7 @@ Table of Contents
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 - [Coding With Zhia](https://www.youtube.com/user/TwentyFi5ToLife)
-- [Carla Notarobot - YouTube](https://www.youtube.com/user/givemeabreak2469/featured)
+- [Carla Notarobot](https://www.youtube.com/user/givemeabreak2469/featured)
 
 ## Statistics/Math
 
@@ -99,7 +99,7 @@ Table of Contents
 
 ## Flutter
 
-- [The Flutter Way - YouTube](https://www.youtube.com/c/TheFlutterWay/featured)
+- [The Flutter Way](https://www.youtube.com/c/TheFlutterWay/featured)
 
 ## Data Science / Data Analysis
 
@@ -135,7 +135,7 @@ Table of Contents
 - [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
 - [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
 - [StartDataEngineering](https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ)
-- [Code First - YouTube](https://www.youtube.com/c/CodeFirstio/featured)
+- [Code First](https://www.youtube.com/c/CodeFirstio/featured)
 
 ## ML/AI/DL
 
@@ -157,7 +157,7 @@ Table of Contents
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
 - [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
 - [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
-- [AI Coding - YouTube](https://www.youtube.com/c/AICoding/featured)
+- [AI Coding](https://www.youtube.com/c/AICoding/featured)
 
 ## AI research
 
@@ -182,7 +182,7 @@ Table of Contents
 
 ## Cybersecurity
 
-- [Cyberspatial - YouTube](https://www.youtube.com/c/Cyberspatial/about)
+- [Cyberspatial](https://www.youtube.com/c/Cyberspatial/about)
 
 ## Podcasts/Talks
 
