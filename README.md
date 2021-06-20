@@ -22,6 +22,7 @@ Table of Contents
   - [Data Engineering](#data-engineering)
   - [ML/AI/DL](#mlaidl)
   - [AI research](#ai-research)
+  - [Audio Programming](#audio-programming)
   - [Podcasts/Talks](#podcaststalks)
   - [Organizations](#organizations)
 
@@ -109,6 +110,7 @@ Table of Contents
 - [Data School](https://www.youtube.com/c/dataschool/featured)
 - [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
 - [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
+- [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
 
 ## Data Engineering
 
@@ -147,6 +149,18 @@ Table of Contents
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 - [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
 - [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
+
+## Audio Programming
+
+- [Akash Murthy](https://www.youtube.com/channel/UCb_NEjjKOXV9pilaSOjlkZA)
+- [Bela Platform](https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA)
+- [Cycling '74](https://www.youtube.com/user/cycling74com)
+- [Digital Signal Processing](https://www.youtube.com/channel/UCf-VdHm0OyV_TKD5BU9yIXw)
+- [Eli Fieldsteel - Supercollider](https://www.youtube.com/user/elifieldsteel)
+- [JUCE](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ)
+- [Sam Aaron - Sonic Pi](https://www.youtube.com/channel/UCQB04t2hxSBVTjxpbIHdI-w)
+- [Seth Adams - Deep Learning Audio](https://www.youtube.com/channel/UCEMuqW8dYhhbs4uXtcAaHvQ)
+- [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A)
 
 ## Podcasts/Talks
 
