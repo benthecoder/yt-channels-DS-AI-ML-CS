@@ -100,6 +100,16 @@ Table of Contents
 ## Flutter
 
 - [The Flutter Way](https://www.youtube.com/c/TheFlutterWay/featured)
+- [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+- [The Boring Flutter Development Show](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+- [Flutter Explained](https://www.youtube.com/c/FlutterExplained)
+- [Tadas Petra](https://www.youtube.com/c/TadasPetra/featured)
+- [Learn App Code](https://www.youtube.com/c/LearnFlutterCode/featured)
+- [Fun with Flutter](https://www.youtube.com/c/FunwithFlutter/featured)
+- [Robert Brunhage](https://www.youtube.com/c/RobertBrunhage/featured)
+- [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos/featured)
+- [SuperDeclarative!](https://www.youtube.com/c/SuperDeclarative/featured)
+- [Afgprogrammer](https://www.youtube.com/c/Afgprogrammer/featured)
 
 ## Data Science / Data Analysis
 
