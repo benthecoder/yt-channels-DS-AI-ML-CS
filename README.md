@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A comprehensive list of YouTube Channels (in no particular order) for Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. .
+A comprehensive list of YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. .
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
@@ -18,11 +18,14 @@ Table of Contents
   - [Statistics/Math](#statisticsmath)
   - [Python](#python)
   - [R](#r)
+  - [Julia](#julia)
+  - [Flutter](#flutter)
   - [Data Science / Data Analysis](#data-science--data-analysis)
   - [Data Engineering](#data-engineering)
   - [ML/AI/DL](#mlaidl)
   - [AI research](#ai-research)
   - [Audio Programming](#audio-programming)
+  - [Cybersecurity](#cybersecurity)
   - [Podcasts/Talks](#podcaststalks)
   - [Organizations](#organizations)
 
@@ -46,6 +49,10 @@ Table of Contents
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
+- [Kenny Gunderman - YouTube](https://www.youtube.com/c/KennyGunderman/featured)
+- [Gerard Taylor - YouTube](https://www.youtube.com/user/gerardonfiya/featured)
+- [mCoding - YouTube](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
+- [Derek Banas - YouTube](https://www.youtube.com/c/derekbanas/featured)
 
 ## Software Engineers
 
@@ -59,6 +66,7 @@ Table of Contents
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 - [Coding With Zhia](https://www.youtube.com/user/TwentyFi5ToLife)
+- [Carla Notarobot - YouTube](https://www.youtube.com/user/givemeabreak2469/featured)
 
 ## Statistics/Math
 
@@ -84,6 +92,14 @@ Table of Contents
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
+
+## Julia
+
+- [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
+
+## Flutter
+
+- [The Flutter Way - YouTube](https://www.youtube.com/c/TheFlutterWay/featured)
 
 ## Data Science / Data Analysis
 
@@ -119,6 +135,7 @@ Table of Contents
 - [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
 - [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
 - [StartDataEngineering](https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ)
+- [Code First - YouTube](https://www.youtube.com/c/CodeFirstio/featured)
 
 ## ML/AI/DL
 
@@ -140,6 +157,7 @@ Table of Contents
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
 - [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
 - [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
+- [AI Coding - YouTube](https://www.youtube.com/c/AICoding/featured)
 
 ## AI research
 
@@ -161,6 +179,10 @@ Table of Contents
 - [Sam Aaron - Sonic Pi](https://www.youtube.com/channel/UCQB04t2hxSBVTjxpbIHdI-w)
 - [Seth Adams - Deep Learning Audio](https://www.youtube.com/channel/UCEMuqW8dYhhbs4uXtcAaHvQ)
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A)
+
+## Cybersecurity
+
+- [Cyberspatial - YouTube](https://www.youtube.com/c/Cyberspatial/about)
 
 ## Podcasts/Talks
 
@@ -186,7 +208,6 @@ Table of Contents
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 - [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
 - [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
-- [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
 - [PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
 - [Kaggle](https://www.youtube.com/user/kaggledotcom)
 - [H2O.ai](https://www.youtube.com/user/0xdata)
