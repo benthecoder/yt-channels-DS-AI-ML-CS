@@ -158,6 +158,7 @@ Table of Contents
 - [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
 - [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
 - [AI Coding](https://www.youtube.com/c/AICoding/featured)
+- [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
 
 ## AI research
 
