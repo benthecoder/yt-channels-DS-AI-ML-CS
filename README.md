@@ -45,6 +45,7 @@ Table of Contents
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
+- [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A)
 
 ## Software Engineers
 
