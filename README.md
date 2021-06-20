@@ -84,6 +84,7 @@ Table of Contents
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Real Python](https://www.youtube.com/c/realpython/videos)
 - [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
+- [Computational Biology with Python](https://www.youtube.com/channel/UCti8KSLHdoVd7K0VZwUZk_g)
 
 ## R
 
