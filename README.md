@@ -14,18 +14,19 @@ Table of Contents
 
 - [Awesome YouTube Channels](#awesome-youtube-channels)
   - [Programming](#programming)
+  - [Web-dev (HTML, CSS, JS)](#web-dev-html-css-js)
   - [Software Engineers](#software-engineers)
-  - [Statistics/Math](#statisticsmath)
   - [Python](#python)
   - [R](#r)
   - [Julia](#julia)
   - [Flutter](#flutter)
+  - [Audio Programming](#audio-programming)
+  - [Cybersecurity](#cybersecurity)
+  - [Statistics/Math](#statisticsmath)
   - [Data Science / Data Analysis](#data-science--data-analysis)
   - [Data Engineering](#data-engineering)
   - [ML/AI/DL](#mlaidl)
   - [AI research](#ai-research)
-  - [Audio Programming](#audio-programming)
-  - [Cybersecurity](#cybersecurity)
   - [Podcasts/Talks](#podcaststalks)
   - [Organizations](#organizations)
 
@@ -43,7 +44,6 @@ Table of Contents
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-- [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
@@ -53,38 +53,35 @@ Table of Contents
 - [Gerard Taylor](https://www.youtube.com/user/gerardonfiya/featured)
 - [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
 - [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
+
+## Web-dev (HTML, CSS, JS)
+
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
+- [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
+- [Filip](https://www.youtube.com/c/FilipDev/featured)
 
 ## Software Engineers
 
-- [calvin.c](https://www.youtube.com/c/calvinchancreates)
-- [Engineer Man](https://www.youtube.com/c/EngineerMan)
 - [Keep On Coding](https://www.youtube.com/c/KeepOnCoding)
-- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
+- [Engineer Man](https://www.youtube.com/c/EngineerMan)
 - [mayuko](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
 - [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
-- [Nick White](https://www.youtube.com/c/NickWhite/featured)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+- [calvin.c](https://www.youtube.com/c/calvinchancreates)
+- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured)
+- [Nick White](https://www.youtube.com/c/NickWhite/featured)
 - [Coding With Zhia](https://www.youtube.com/user/TwentyFi5ToLife)
 - [Carla Notarobot](https://www.youtube.com/user/givemeabreak2469/featured)
-
-## Statistics/Math
-
-- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-- [ritvikmath](https://www.youtube.com/c/ritvikmath)
-- [zedstatistics](https://www.youtube.com/user/zedstatistics)
-- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
-- [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
-- [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
-- [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
 
 ## Python
 
 - [NeuralNine](https://www.youtube.com/c/NeuralNine)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
 - [sentdex](https://www.youtube.com/user/sentdex)
+- [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
 - [Real Python](https://www.youtube.com/c/realpython/videos)
 - [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
 - [Computational Biology with Python](https://www.youtube.com/channel/UCti8KSLHdoVd7K0VZwUZk_g)
@@ -115,6 +112,33 @@ Table of Contents
 - [SuperDeclarative!](https://www.youtube.com/c/SuperDeclarative/featured)
 - [Afgprogrammer](https://www.youtube.com/c/Afgprogrammer/featured)
 
+## Audio Programming
+
+- [Akash Murthy](https://www.youtube.com/channel/UCb_NEjjKOXV9pilaSOjlkZA)
+- [Bela Platform](https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA)
+- [Cycling '74](https://www.youtube.com/user/cycling74com)
+- [Digital Signal Processing](https://www.youtube.com/channel/UCf-VdHm0OyV_TKD5BU9yIXw)
+- [Eli Fieldsteel - Supercollider](https://www.youtube.com/user/elifieldsteel)
+- [JUCE](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ)
+- [Sam Aaron - Sonic Pi](https://www.youtube.com/channel/UCQB04t2hxSBVTjxpbIHdI-w)
+- [Seth Adams - Deep Learning Audio](https://www.youtube.com/channel/UCEMuqW8dYhhbs4uXtcAaHvQ)
+- [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A)
+
+## Cybersecurity
+
+- [Cyberspatial](https://www.youtube.com/c/Cyberspatial/about)
+
+## Statistics/Math
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [ritvikmath](https://www.youtube.com/c/ritvikmath)
+- [zedstatistics](https://www.youtube.com/user/zedstatistics)
+- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
+- [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
+- [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
+- [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+  
 ## Data Science / Data Analysis
 
 - [Krish Naik](https://www.youtube.com/user/krishnaik06)
@@ -180,29 +204,13 @@ Table of Contents
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
-- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
 - [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
-
-## Audio Programming
-
-- [Akash Murthy](https://www.youtube.com/channel/UCb_NEjjKOXV9pilaSOjlkZA)
-- [Bela Platform](https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA)
-- [Cycling '74](https://www.youtube.com/user/cycling74com)
-- [Digital Signal Processing](https://www.youtube.com/channel/UCf-VdHm0OyV_TKD5BU9yIXw)
-- [Eli Fieldsteel - Supercollider](https://www.youtube.com/user/elifieldsteel)
-- [JUCE](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ)
-- [Sam Aaron - Sonic Pi](https://www.youtube.com/channel/UCQB04t2hxSBVTjxpbIHdI-w)
-- [Seth Adams - Deep Learning Audio](https://www.youtube.com/channel/UCEMuqW8dYhhbs4uXtcAaHvQ)
-- [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A)
-
-## Cybersecurity
-
-- [Cyberspatial](https://www.youtube.com/c/Cyberspatial/about)
 
 ## Podcasts/Talks
 
 - [Lex Fridman](https://www.youtube.com/user/lexfridman)
 - [bitgrit_official](https://www.youtube.com/channel/UCsEdlkbxrAH93NVGFgGtgdA)
+- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
 - [Weights & Biases](https://www.youtube.com/c/WeightsBiases)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience/featured)
 - [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg)
