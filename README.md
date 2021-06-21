@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A comprehensive list of YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, ect. .
+A comprehensive list of + 160 YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, and more!
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
 I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and AI. Check out all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
-Interested in R resources for Data Science? Check out this [compiled lists](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md).
+Interested in R resources for Data Science? Check out my other [compiled lists](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md).
 
 Table of Contents
 
@@ -142,11 +142,11 @@ Table of Contents
   
 ## Data Science / Data Analysis
 
-- [Krish Naik](https://www.youtube.com/user/krishnaik06)
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
-- [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
 - [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06)
+- [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
 - [Import Data](https://www.youtube.com/c/ImportData1/featured)
 - [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
 - [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
@@ -155,6 +155,8 @@ Table of Contents
 - [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
 - [Anastasia K](https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA)
 - [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
+- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
+- [Luke Barousse](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ)
 - [Madhav Thaker](https://www.youtube.com/user/inferno0709)
 - [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
 - [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
