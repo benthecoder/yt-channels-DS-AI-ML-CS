@@ -53,6 +53,7 @@ Table of Contents
 - [Gerard Taylor](https://www.youtube.com/user/gerardonfiya/featured)
 - [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
 - [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
+- [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
 
 ## Software Engineers
 
