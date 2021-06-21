@@ -76,6 +76,8 @@ Table of Contents
 - [zedstatistics](https://www.youtube.com/user/zedstatistics)
 - [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
 - [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
+- [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
+- [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
 
 ## Python
 
