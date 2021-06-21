@@ -33,6 +33,7 @@ Table of Contents
 ## Programming
 
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [Neso Academy](https://www.youtube.com/c/nesoacademy/videos)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
