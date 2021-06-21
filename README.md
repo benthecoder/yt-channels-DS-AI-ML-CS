@@ -62,6 +62,9 @@ Table of Contents
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Filip](https://www.youtube.com/c/FilipDev/featured)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 
 ## Software Engineers
 
@@ -139,7 +142,7 @@ Table of Contents
 - [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
 - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
 - [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
-  
+
 ## Data Science / Data Analysis
 
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
