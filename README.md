@@ -9,6 +9,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and AI. Check out all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Check out my other lists:
+
 - [Data Science resources for R](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md)
 - [ml-blogs-that-are-worth-reading](https://github.com/benthecoder/ml-blogs-that-are-worth-reading)
 
@@ -22,6 +23,7 @@ Table of Contents
   - [R](#r)
   - [Julia](#julia)
   - [Flutter](#flutter)
+  - [Ruby](#ruby)
   - [Audio Programming](#audio-programming)
   - [Cybersecurity](#cybersecurity)
   - [Statistics/Math](#statisticsmath)
@@ -117,6 +119,13 @@ Table of Contents
 - [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos/featured)
 - [SuperDeclarative!](https://www.youtube.com/c/SuperDeclarative/featured)
 - [Afgprogrammer](https://www.youtube.com/c/Afgprogrammer/featured)
+
+## Ruby
+
+- [zayne - YouTube](https://www.youtube.com/channel/UCkoEStUK7wxmZef2DcPuCAQ/featured)
+- [Tom Kadwill - YouTube](https://www.youtube.com/user/kadwill)
+- [GoRails - YouTube](https://www.youtube.com/c/GorailsTV/featured)
+- [Drifting Ruby - YouTube](https://www.youtube.com/c/DriftingRuby/featured)
 
 ## Audio Programming
 
