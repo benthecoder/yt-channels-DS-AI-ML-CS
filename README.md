@@ -9,7 +9,7 @@ Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-D
 I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and AI. Check out all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Check out my other lists:
-- [Data sceince resources for R](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md)
+- [Data Science resources for R](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md)
 - [ml-blogs-that-are-worth-reading](https://github.com/benthecoder/ml-blogs-that-are-worth-reading)
 
 Table of Contents
