@@ -214,6 +214,7 @@ Table of Contents
 - [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
 - [AI Coding](https://www.youtube.com/c/AICoding/featured)
 - [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
+- [mildlyoverfitted](https://www.youtube.com/c/mildlyoverfitted)
 
 ## AI research
 
