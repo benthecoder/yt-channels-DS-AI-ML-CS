@@ -253,3 +253,7 @@ Table of Contents
 - [Kaggle](https://www.youtube.com/user/kaggledotcom)
 - [H2O.ai](https://www.youtube.com/user/0xdata)
 - [DataCamp](https://www.youtube.com/c/Datacamp/featured)
+
+## C++
+
+ - [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) 
