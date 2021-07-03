@@ -2,11 +2,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A comprehensive list of +160 YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, and more!
+A comprehensive list of +180 YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, and more!
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/). I have a [blog](https://benedictxneo.medium.com/) where I do Data Science tutorials and share about what I've learned. Check out [all my articles](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/). I have a [blog](https://benedictxneo.medium.com/) where I do Data Science tutorials and share about what I've learned. You can find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Check out my other lists:
 
@@ -65,6 +65,7 @@ Table of Contents
 - [Leet Dev](https://www.youtube.com/channel/UCpozECHF9QxfEu6LfWYVfKw/videos)
 - [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Mr. Rhodes](https://www.youtube.com/c/MrRhodes/featured)
 
 ## Web-dev (HTML, CSS, JS)
 
@@ -76,7 +77,6 @@ Table of Contents
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
-- [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 ## Software Engineers
 
@@ -91,9 +91,7 @@ Table of Contents
 - [Nick White](https://www.youtube.com/c/NickWhite/featured)
 - [Coding With Zhia](https://www.youtube.com/user/TwentyFi5ToLife)
 - [Carla Notarobot](https://www.youtube.com/user/givemeabreak2469/featured)
-- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 - [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
-- [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
 
 ## Python
 
@@ -138,10 +136,10 @@ Table of Contents
 
 ## Ruby
 
-- [zayne - YouTube](https://www.youtube.com/channel/UCkoEStUK7wxmZef2DcPuCAQ/featured)
-- [Tom Kadwill - YouTube](https://www.youtube.com/user/kadwill)
-- [GoRails - YouTube](https://www.youtube.com/c/GorailsTV/featured)
-- [Drifting Ruby - YouTube](https://www.youtube.com/c/DriftingRuby/featured)
+- [zayne](https://www.youtube.com/channel/UCkoEStUK7wxmZef2DcPuCAQ/featured)
+- [Tom Kadwill](https://www.youtube.com/user/kadwill)
+- [GoRails](https://www.youtube.com/c/GorailsTV/featured)
+- [Drifting Ruby](https://www.youtube.com/c/DriftingRuby/featured)
 
 ## Audio Programming
 
@@ -199,7 +197,6 @@ Table of Contents
 - [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
 - [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
 - [Data Science Dream Job](https://www.youtube.com/channel/UCr6_XCxMLXWGguWZi_93n7w)
-- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 
 ## Data Engineering
 
