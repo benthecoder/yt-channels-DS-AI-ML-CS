@@ -6,7 +6,7 @@ A comprehensive list of +160 YouTube Channels (in no particular order) for Data 
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
-I have a [blog](https://benedictxneo.medium.com/) where I do Data Science tutorials and share about what I've learned. Check out [all my articles](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/). I have a [blog](https://benedictxneo.medium.com/) where I do Data Science tutorials and share about what I've learned. Check out [all my articles](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Check out my other lists:
 
