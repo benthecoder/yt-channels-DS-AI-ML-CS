@@ -167,6 +167,7 @@ Table of Contents
 - [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
 - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
 - [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+- [Machine Learning & Simulation](https://www.youtube.com/c/machinelearningsimulation)
 
 ## Data Science / Data Analysis
 
