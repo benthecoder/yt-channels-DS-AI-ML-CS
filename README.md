@@ -198,6 +198,9 @@ Table of Contents
 - [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
 - [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
 - [Data Science Dream Job](https://www.youtube.com/channel/UCr6_XCxMLXWGguWZi_93n7w)
+- [Data Council](https://www.youtube.com/c/DataCouncil)
+- [PyData](https://www.youtube.com/c/PyDataTV)
+- [The Data Scientist Show](https://www.youtube.com/c/TheDataScientistShow)
 
 ## Data Engineering
 
@@ -240,6 +243,7 @@ Table of Contents
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 - [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
+- [AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
 
 ## Podcasts/Talks
 
@@ -257,6 +261,7 @@ Table of Contents
 - [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
 - [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
 - [The Ravit Show](https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured)
+- [Plumers of Data Science](https://www.youtube.com/c/andreaskayy)
 
 ## Organizations
 
@@ -271,3 +276,4 @@ Table of Contents
 - [H2O.ai](https://www.youtube.com/user/0xdata)
 - [DataCamp](https://www.youtube.com/c/Datacamp/featured)
 - [HackerRank](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)
+- [Databricks](https://www.youtube.com/c/Databricks)
