@@ -77,6 +77,8 @@ Table of Contents
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+- [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+- [Dan Abramov](https://www.youtube.com/user/danabramov0)
 
 ## Software Engineers
 
