@@ -107,6 +107,7 @@ Table of Contents
 
 ## R
 
+- [Jarad Niemi](https://www.youtube.com/c/jaradniemi)
 - [David Robinson](https://www.youtube.com/user/safe4democracy)
 - [Andrew Couch](https://www.youtube.com/user/asianlongboarder)
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)
