@@ -6,7 +6,9 @@ A comprehensive list of +180 YouTube Channels (in no particular order) for Data 
 
 Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/). I have a [blog](https://benedictxneo.medium.com/) where I do Data Science tutorials and share about what I've learned. You can find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/).
+
+I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and share open-source tools. You can find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
 
 Check out my other lists:
 
@@ -16,24 +18,113 @@ Check out my other lists:
 Table of Contents
 
 - [Awesome YouTube Channels](#awesome-youtube-channels)
+  - [Data Science / Data Analysis](#data-science--data-analysis)
+  - [ML/AI/DL](#mlaidl)
+  - [Data Engineering](#data-engineering)
+  - [Statistics/Math](#statisticsmath)
+  - [AI research](#ai-research)
   - [Programming](#programming)
   - [Web-dev (HTML, CSS, JS)](#web-dev-html-css-js)
-  - [Software Engineers](#software-engineers)
-  - [Python](#python)
-  - [R](#r)
-  - [C++](#c)
-  - [Julia](#julia)
-  - [Flutter](#flutter)
-  - [Ruby](#ruby)
+  - [Software Engineering](#software-engineering)
+  - [Langauges](#langauges)
+    - [Python](#python)
+    - [R](#r)
+    - [C++](#c)
+    - [Julia](#julia)
+    - [Flutter](#flutter)
+    - [Ruby](#ruby)
   - [Audio Programming](#audio-programming)
   - [Cybersecurity](#cybersecurity)
-  - [Statistics/Math](#statisticsmath)
-  - [Data Science / Data Analysis](#data-science--data-analysis)
-  - [Data Engineering](#data-engineering)
-  - [ML/AI/DL](#mlaidl)
-  - [AI research](#ai-research)
   - [Podcasts/Talks](#podcaststalks)
   - [Organizations](#organizations)
+
+## Data Science / Data Analysis
+
+- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
+- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06)
+- [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
+- [Import Data](https://www.youtube.com/c/ImportData1/featured)
+- [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
+- [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
+- [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+- [How to Get an Analytics Job](https://www.youtube.com/channel/UC7T_528unh2ZgnVcx1sl7oA/channels)
+- [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
+- [Anastasia K](https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA)
+- [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
+- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
+- [Luke Barousse](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ)
+- [Madhav Thaker](https://www.youtube.com/user/inferno0709)
+- [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
+- [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
+- [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
+- [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
+- [dataslice](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
+- [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
+- [Data School](https://www.youtube.com/c/dataschool/featured)
+- [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
+- [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
+- [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
+- [Data Science Dream Job](https://www.youtube.com/channel/UCr6_XCxMLXWGguWZi_93n7w)
+- [Data Council](https://www.youtube.com/c/DataCouncil)
+- [PyData](https://www.youtube.com/c/PyDataTV)
+- [The Data Scientist Show](https://www.youtube.com/c/TheDataScientistShow)
+
+## ML/AI/DL
+
+- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
+- [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
+- [Mark Saroufim](https://www.youtube.com/user/marksaroufim)
+- [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
+- [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
+- [CodeEmporium](https://www.youtube.com/c/CodeEmporium/featured)
+- [Jay Alammar](https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ)
+- [Yacine Mahdid](https://www.youtube.com/c/CodeThisCodeThat/featured)
+- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
+- [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
+- [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+- [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
+- [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
+- [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
+- [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
+- [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
+- [AI Coding](https://www.youtube.com/c/AICoding/featured)
+- [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
+- [mildlyoverfitted](https://www.youtube.com/c/mildlyoverfitted)
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+
+## Data Engineering
+
+- [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
+- [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
+- [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
+- [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
+- [StartDataEngineering](https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ)
+- [Code First](https://www.youtube.com/c/CodeFirstio/featured)
+
+## Statistics/Math
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [ritvikmath](https://www.youtube.com/c/ritvikmath)
+- [zedstatistics](https://www.youtube.com/user/zedstatistics)
+- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
+- [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
+- [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
+- [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+- [Machine Learning & Simulation](https://www.youtube.com/c/machinelearningsimulation)
+
+## AI research
+
+- [AI Journal](https://www.youtube.com/c/AIJournal)
+- [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+- [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
+- [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
+- [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
+- [AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
 
 ## Programming
 
@@ -80,7 +171,7 @@ Table of Contents
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - [Dan Abramov](https://www.youtube.com/user/danabramov0)
 
-## Software Engineers
+## Software Engineering
 
 - [Keep On Coding](https://www.youtube.com/c/KeepOnCoding)
 - [Engineer Man](https://www.youtube.com/c/EngineerMan)
@@ -95,7 +186,9 @@ Table of Contents
 - [Carla Notarobot](https://www.youtube.com/user/givemeabreak2469/featured)
 - [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
 
-## Python
+## Langauges
+
+### Python
 
 - [NeuralNine](https://www.youtube.com/c/NeuralNine)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
@@ -105,7 +198,7 @@ Table of Contents
 - [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
 - [Computational Biology with Python](https://www.youtube.com/channel/UCti8KSLHdoVd7K0VZwUZk_g)
 
-## R
+### R
 
 - [Jarad Niemi](https://www.youtube.com/c/jaradniemi)
 - [David Robinson](https://www.youtube.com/user/safe4democracy)
@@ -114,16 +207,16 @@ Table of Contents
 - [David Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured)
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)
 
-## C++
+### C++
 
 - [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 - [Cᐩᐩ Weekly With Jason Turner](https://www.youtube.com/user/lefticus1)
 
-## Julia
+### Julia
 
 - [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
 
-## Flutter
+### Flutter
 
 - [The Flutter Way](https://www.youtube.com/c/TheFlutterWay/featured)
 - [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
@@ -137,7 +230,7 @@ Table of Contents
 - [SuperDeclarative!](https://www.youtube.com/c/SuperDeclarative/featured)
 - [Afgprogrammer](https://www.youtube.com/c/Afgprogrammer/featured)
 
-## Ruby
+### Ruby
 
 - [zayne](https://www.youtube.com/channel/UCkoEStUK7wxmZef2DcPuCAQ/featured)
 - [Tom Kadwill](https://www.youtube.com/user/kadwill)
@@ -159,94 +252,6 @@ Table of Contents
 ## Cybersecurity
 
 - [Cyberspatial](https://www.youtube.com/c/Cyberspatial/about)
-
-## Statistics/Math
-
-- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-- [ritvikmath](https://www.youtube.com/c/ritvikmath)
-- [zedstatistics](https://www.youtube.com/user/zedstatistics)
-- [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/featured)
-- [Mathematical Foundations of ML with Jon Krohn](https://www.youtube.com/c/jonkrohnlearns)
-- [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
-- [Dr.Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
-- [Machine Learning & Simulation](https://www.youtube.com/c/machinelearningsimulation)
-
-## Data Science / Data Analysis
-
-- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
-- [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
-- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
-- [Krish Naik](https://www.youtube.com/user/krishnaik06)
-- [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
-- [Import Data](https://www.youtube.com/c/ImportData1/featured)
-- [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
-- [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
-- [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
-- [How to Get an Analytics Job](https://www.youtube.com/channel/UC7T_528unh2ZgnVcx1sl7oA/channels)
-- [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
-- [Anastasia K](https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA)
-- [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
-- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
-- [Luke Barousse](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ)
-- [Madhav Thaker](https://www.youtube.com/user/inferno0709)
-- [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
-- [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
-- [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
-- [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
-- [dataslice](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
-- [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
-- [Data School](https://www.youtube.com/c/dataschool/featured)
-- [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
-- [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
-- [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
-- [Data Science Dream Job](https://www.youtube.com/channel/UCr6_XCxMLXWGguWZi_93n7w)
-- [Data Council](https://www.youtube.com/c/DataCouncil)
-- [PyData](https://www.youtube.com/c/PyDataTV)
-- [The Data Scientist Show](https://www.youtube.com/c/TheDataScientistShow)
-
-## Data Engineering
-
-- [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)
-- [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
-- [Data Engineering](https://www.youtube.com/c/atozknowledgevideos/featured)
-- [Tuan Vu](https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos)
-- [StartDataEngineering](https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ)
-- [Code First](https://www.youtube.com/c/CodeFirstio/featured)
-
-## ML/AI/DL
-
-- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
-- [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
-- [Mark Saroufim](https://www.youtube.com/user/marksaroufim)
-- [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
-- [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
-- [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
-- [CodeEmporium](https://www.youtube.com/c/CodeEmporium/featured)
-- [Jay Alammar](https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ)
-- [Yacine Mahdid](https://www.youtube.com/c/CodeThisCodeThat/featured)
-- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured)
-- [Smitha Kolan - Machine Learning Engineer](https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A)
-- [AI Coffee Break with Letitia](https://www.youtube.com/c/aicoffeebreak)
-- [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
-- [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
-- [Alfredo Canziani](https://www.youtube.com/c/AlfredoCanziani/featured)
-- [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured)
-- [AIEngineering](https://www.youtube.com/c/AIEngineeringLife/featured)
-- [Kapil Sachdeva](https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ)
-- [AI Coding](https://www.youtube.com/c/AICoding/featured)
-- [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
-- [mildlyoverfitted](https://www.youtube.com/c/mildlyoverfitted)
-- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
-
-## AI research
-
-- [AI Journal](https://www.youtube.com/c/AIJournal)
-- [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
-- [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
-- [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
-- [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
-- [AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
 
 ## Podcasts/Talks
 
