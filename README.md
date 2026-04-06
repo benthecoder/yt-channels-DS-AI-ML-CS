@@ -70,6 +70,7 @@ Table of Contents
 - [Data Council](https://www.youtube.com/c/DataCouncil)
 - [PyData](https://www.youtube.com/c/PyDataTV)
 - [The Data Scientist Show](https://www.youtube.com/c/TheDataScientistShow)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration covering AI, ML, and data science workflows. MIT licensed.
 
 ## ML/AI/DL
 
